@@ -2,7 +2,7 @@
 
 - 컴퓨터 사이언스 공부
 ```plaintext
-Computer Architecture
+1. Computer Architecture
 ├── Overview of Computer Architecture
 ├── Information Understood by Computer
 │   ├── Data
